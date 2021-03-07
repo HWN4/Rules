@@ -23,12 +23,15 @@
 - **直连域名列表 direct.yaml**：
   - [https://raw.githubusercontent.com/HWN4/Rules/master/Clash/rule-providers/direct.yaml](https://raw.githubusercontent.com/HWN4/Rules/master/Clash/rule-providers/direct.yaml)
   - [https://cdn.jsdelivr.net/gh/HWN4/Rules@master/Clash/rule-providers/direct.yaml](https://cdn.jsdelivr.net/gh/HWN4/Rules@master/Clash/rule-providers/direct.yaml)
+  - [https://raw.sevencdn.com/HWN4/Rules/master/Clash/rule-providers/direct.yaml](https://raw.sevencdn.com/HWN4/Rules/master/Clash/rule-providers/direct.yaml)
 - **代理域名列表 proxy.yaml**：
   - [https://raw.githubusercontent.com/HWN4/Rules/master/Clash/rule-providers/proxy.yaml](https://raw.githubusercontent.com/HWN4/Rules/master/Clash/rule-providers/proxy.yaml)
   - [https://cdn.jsdelivr.net/gh/HWN4/Rules@master/Clash/rule-providers/proxy.yaml](https://cdn.jsdelivr.net/gh/HWN4/Rules@master/Clash/rule-providers/proxy.yaml)
+  - [https://raw.sevencdn.com/HWN4/Rules/master/Clash/rule-providers/proxy.yaml](https://raw.sevencdn.com/HWN4/Rules/master/Clash/rule-providers/proxy.yaml)
 - **广告域名列表 reject.yaml**：
   - [https://raw.githubusercontent.com/HWN4/Rules/master/Clash/rule-providers/reject.yaml](https://raw.githubusercontent.com/HWN4/Rules/master/Clash/rule-providers/reject.yaml)
   - [https://cdn.jsdelivr.net/gh/HWN4/Rules@master/Clash/rule-providers/reject.yaml](https://cdn.jsdelivr.net/gh/HWN4/Rules@master/Clash/rule-providers/reject.yaml)
+  - [https://raw.sevencdn.com/HWN4/Rules/master/Clash/rule-providers/reject.yaml](https://raw.sevencdn.com/HWN4/Rules/master/Clash/rule-providers/reject.yaml)
 
 ### 使用方式
 
